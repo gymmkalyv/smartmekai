@@ -28,9 +28,7 @@
 
 <img class="size-medium wp-image-13661 aligncenter" src="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2025/05/3d-εκτύπωση-300x298.jpg" alt="" width="300" height="298" />
 
-Αναλυτικά την έρευνα, τη σχεδίαση που ακολουθήσαμε, τη διάταξη κυκλωμάτων, τον κώδικα, το OER που ακολουθήσαμε, το 3D αρχείο που σχεδιάσαμε και τα φύλλα εργασίας του έργου μπορείτε να τα βρείτε στη διεύθυνση αποθετηρίου στο Github: <a href="https://github.com/gymmkalyv/smartmekai">https://github.com/gymmkalyv/smartmekai</a>. Παρακάτω σε μορφή ψηφιακού βιβλίου φαίνεται οργανωμένη όλη η απαραίτητη πληροφορία του έργου.
-
-"https://online.fliphtml5.com/namxc/cdyt/"
+Αναλυτικά την έρευνα, τη σχεδίαση που ακολουθήσαμε, τη διάταξη κυκλωμάτων, τον κώδικα, το OER που ακολουθήσαμε, το 3D αρχείο που σχεδιάσαμε και τα φύλλα εργασίας του έργου μπορείτε να τα βρείτε στη διεύθυνση αποθετηρίου στο Github: <a href="https://github.com/gymmkalyv/smartmekai">https://github.com/gymmkalyv/smartmekai</a>. Παρακάτω σε μορφή ψηφιακού βιβλίου φαίνεται οργανωμένη όλη η απαραίτητη πληροφορία του έργου: https://online.fliphtml5.com/namxc/cdyt/
 
 Η παρουσίαση του έργου από τους/τις μαθητές/τριες σε λειτουργία φαίνεται παρακάτω:
 
