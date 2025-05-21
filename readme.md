@@ -30,7 +30,7 @@
 
 Αναλυτικά την έρευνα, τη σχεδίαση που ακολουθήσαμε, τη διάταξη κυκλωμάτων, τον κώδικα, το OER που ακολουθήσαμε, το 3D αρχείο που σχεδιάσαμε και τα φύλλα εργασίας του έργου μπορείτε να τα βρείτε στη διεύθυνση αποθετηρίου στο Github: <a href="https://github.com/gymmkalyv/smartmekai">https://github.com/gymmkalyv/smartmekai</a>. Παρακάτω σε μορφή ψηφιακού βιβλίου φαίνεται οργανωμένη όλη η απαραίτητη πληροφορία του έργου.
 
-[fliph5 id="namxc-cdyt" width="900px" height="500px"]
+data-rel="fh5-light-box-demo" data-href="https://online.fliphtml5.com/namxc/cdyt/" data-width="400" data-height="250" data-title=""
 
 Η παρουσίαση του έργου από τους/τις μαθητές/τριες σε λειτουργία φαίνεται παρακάτω:
 
